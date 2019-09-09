@@ -21,7 +21,7 @@ public class Test {
         // Part 3
         // TODO Create util calc methods of math sequences.
         System.out.println("Factorial of value: " + factorial(3));
-        System.out.println("Harmonic progression: " + harmonicProgression(2, 4, 2));
+        System.out.println("Harmonic progression: " + harmonicProgression(2, 0  , 13));
         System.out.println("Arithmetic progression: " + arithmeticProgression(2, 4, 3));
     }
 }

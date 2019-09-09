@@ -1,4 +1,4 @@
-package ua.zp.brain.labs.oop.basics.methods;
+package main.java.ua.zp.brain.labs.oop.basics.methods;
 
 public class Test {
     public static void main(String[] args) {
